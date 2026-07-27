@@ -1,0 +1,29 @@
+/* Estilos personalizados para complementar Tailwind CSS (tema oscuro) */
+
+#chatMessages {
+    scroll-behavior: smooth;
+}
+
+.source-card {
+    border-left: 3px solid #3b82f6;
+}
+
+.status-indexed {
+    background-color: #064e3b;
+    color: #86efac;
+}
+
+.status-processing {
+    background-color: #713f12;
+    color: #fde047;
+}
+
+.status-pending {
+    background-color: #334155;
+    color: #cbd5e1;
+}
+
+.status-error {
+    background-color: #7f1d1d;
+    color: #fca5a5;
+}

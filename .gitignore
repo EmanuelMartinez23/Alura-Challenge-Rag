@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/uploads/
+!media/default_documents/.gitkeep
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Docker
+*.pid
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Static files generated for production
+staticfiles/
