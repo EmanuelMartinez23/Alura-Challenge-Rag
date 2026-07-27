@@ -13,6 +13,10 @@ A continuación se muestra el video del funcionamiento de la plataforma:
 
 <video src="./video_final.mp4" controls width="100%"></video>
 
+
+https://github.com/user-attachments/assets/cd0fd64f-46ec-4a69-b2a1-0a76342fe30d
+
+
 Si el video no se reproduce en el navegador, puedes descargarlo directamente desde [`video_final.mp4`](./video_final.mp4).
 
 ---
