@@ -11,9 +11,9 @@ La aplicación permite cargar uno o varios documentos PDF, procesarlos automáti
 
 A continuación se muestra el video del funcionamiento de la plataforma:
 
-<video src="./video_final.mov" controls width="100%"></video>
+<video src="./video_final.mp4" controls width="100%"></video>
 
-Si el video no se reproduce en el navegador, puedes descargarlo directamente desde [`video_final.mov`](./video_final.mov).
+Si el video no se reproduce en el navegador, puedes descargarlo directamente desde [`video_final.mp4`](./video_final.mp4).
 
 ---
 
